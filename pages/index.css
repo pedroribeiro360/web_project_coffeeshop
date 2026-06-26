@@ -60,7 +60,7 @@
   letter-spacing: -1px;
 }
 
-.header__title_span-accent {
+.header__span-accent {
   display: block;
   font-family:
     Noto Serif,
@@ -109,7 +109,7 @@
 }
 
 .header__footer-paragraph {
-  margin: 0;
+  margin: auto;
 }
 
 .Header__footer-contact {
