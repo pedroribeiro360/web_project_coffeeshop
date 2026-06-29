@@ -204,29 +204,26 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  position: relative;
-  height: 822px;
+  flex-direction: column;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding-bottom: 120px;
 }
 
 .reservation__title {
-  padding-top: 100px;
   font-family: Inter, Arial, sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 0;
+  margin: 100px auto 80px;
 }
 
 .form {
   width: 385px;
   display: flex;
   flex-direction: column;
-  position: absolute;
-  top: 232px;
-  bottom: 120px;
+  margin: 80px auto 120px;
   gap: 32px;
   align-items: center;
 }
