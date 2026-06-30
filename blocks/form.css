@@ -7,10 +7,6 @@
   align-items: center;
 }
 
-.reservation__form {
-  margin: auto;
-}
-
 .form__fieldset {
   display: flex;
   flex-direction: column;
