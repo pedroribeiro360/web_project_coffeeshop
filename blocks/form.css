@@ -2,7 +2,7 @@
   width: 385px;
   display: flex;
   flex-direction: column;
-  margin: 80px auto 120px;
+  margin: 0 auto 0;
   gap: 32px;
   align-items: center;
 }
@@ -10,7 +10,7 @@
 .form__fieldset {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 32px;
   width: 100%;
   border: none;
 }
