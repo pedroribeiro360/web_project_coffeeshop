@@ -3,7 +3,7 @@
   background-color: #0a2850;
   color: white;
   padding: 60px 80px;
-
+  z-index: -2;
   overflow: hidden;
   position: relative;
 }
